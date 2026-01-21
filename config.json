@@ -1,0 +1,14 @@
+{
+    "ownerNumber": "6285727575433",
+    "ownerOnly": false,
+    "allowedGroups": [],
+    "game": {
+        "maxHealth": 100,
+        "startAttack": 10,
+        "startDefense": 5,
+        "startGold": 100,
+        "xpPerLevel": 100,
+        "healCost": 20,
+        "maxInventory": 10
+    }
+}
